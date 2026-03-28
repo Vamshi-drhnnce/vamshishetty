@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Vamshi — an Electronics & Communication Engineering student and a proud member of Param Science, a dynamic science hub driven by innovation and curiosity.<br>
+Hi, I’m VAMSHI  — an Electronics & Communication Engineering student at Dr. H.N National College Of Engineering.<br>
 
 
 ## 🌐 Socials:
