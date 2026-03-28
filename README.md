@@ -5,7 +5,7 @@ Hi, I’m VAMSHI  — an Electronics & Communication Engineering student at Dr. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamshi_shetty19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VAMSHI M) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vamshishetty_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamshi.shetty._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VAMSHI M) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vamshishetty_) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
